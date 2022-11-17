@@ -17,7 +17,7 @@
     "axios": "^0.18.0",
     "jcf": "^1.2.3",
     "jquery": "^3.3.1",
-    "nuxt": "^1.0.0",
+    "nuxt": "^3.0.0",
     "velocity-animate": "^1.5.1",
     "vue": "^2.5.16",
     "vue-fancybox": "^1.0.3",
